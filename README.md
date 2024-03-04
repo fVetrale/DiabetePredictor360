@@ -389,5 +389,5 @@ Dopo un'attento studio dei risultati delle metriche di valutazione ottenuti, è 
 
 ## Riferimenti
 - Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
-- Repository: https://github.com/danielepalomba/DiabetePredictor360.git
+- In collaborazione con: https://github.com/danielepalomba/DiabetePredictor360.git
 
